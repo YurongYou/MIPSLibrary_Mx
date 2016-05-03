@@ -4,6 +4,8 @@ Built by Ficos 16/5/2
 All rights reserved.
 
 All test passed.
+## Note:
+1.`func_getInt` will read input until `\n`, for I call MIPS sysfunc indeed.
 ## Usage:
 
 1. To use the built-in functions, you need to call "`_buffer_init`" function without any args before entering the source main function
