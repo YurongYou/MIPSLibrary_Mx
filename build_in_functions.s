@@ -5,9 +5,7 @@
 # All test passed.
 #
 # Attention:
-# 1. to use the built-in functions, you need to call "_buffer_init" function without any args before entering the source main function
-# 	(jal _buffer_init)
-# 2. just paste all of this in front of your MIPS code
+# 1. just paste all of this in front of your MIPS code
 #
 # All supported functions:
 # 		FunctionName			args
