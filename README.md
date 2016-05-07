@@ -20,19 +20,19 @@ All test passed.
 
 		FunctionName	|		args
 		--------------|--------
-1.	func_print 				|`$a0`: the string
-2.	func_println			|`$a0`: the string
-3.	func_getString			|---
-4.	func_getInt				|---
-5.	func_toString			|`$a0`: the integer
-6.	func_string.length 	|`$a0`: the string
-7.	func_string.substring |  `$a0`: the string,  `$a1`: left pos(int), `$a2`: right pos(int)
-8.	func_string.parseInt |`$a0`: the string
-9.	func_string.ord 		|`$a0`: the string,  `$a1`: pos(int)
+1.	func__print 				|`$a0`: the string
+2.	func__println			|`$a0`: the string
+3.	func__getString			|---
+4.	func__getInt				|---
+5.	func__toString			|`$a0`: the integer
+6.	func__string.length 	|`$a0`: the string
+7.	func__string.substring |  `$a0`: the string,  `$a1`: left pos(int), `$a2`: right pos(int)
+8.	func__string.parseInt |`$a0`: the string
+9.	func__string.ord 		|`$a0`: the string,  `$a1`: pos(int)
 10.	func__array.size 	|`$a0`: the array
-11.	func_stringConcatenate |	`$a0`: left string, `$a1`: right string
-12.	func_stringIsEqual 	|	`$a0`: left string, `$a1`: right string
-13.	func_stringLess 	|	`$a0`: left string, `$a1`: right string
+11.	func__stringConcatenate |	`$a0`: left string, `$a1`: right string
+12.	func__stringIsEqual 	|	`$a0`: left string, `$a1`: right string
+13.	func__stringLess 	|	`$a0`: left string, `$a1`: right string
 14.	func__stringLeq	| 		`$a0`: left string, `$a1`: right string
 15.	func__stringGeq	| 		`$a0`: left string, `$a1`: right string
 16.	func__stringNeq	|		`$a0`: left string, `$a1`: right string
