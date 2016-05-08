@@ -11,7 +11,7 @@ All test passed.
 4. you **don't** need to call "`_buffer_init`" function before entering the source main function!!!
 
 ## Note:
-1.`func_getInt` will read input until `\n`, for I call MIPS sysfunc indeed.
+1.`func__getInt` will read input until `\n`, for I call MIPS sysfunc indeed.
 ## Usage:
 
 1. Just paste all of this in front of your MIPS code
