@@ -1,4 +1,4 @@
-This code is served as a built-in function library of Mx Language of Compiler Project of ACM Honored Class
+This code serves as a built-in function library of Mx Language of Compiler Project of ACM Honored Class
 
 Built by Ficos 16/5/2
 All rights reserved.
@@ -7,7 +7,7 @@ All test passed.
 ## Update(16/5/5)
 1. fix a bug in `func_parseInt`, where the previous version cannot parse negative integer (but this situation does not appear in any test cases)
 2. add `func__stringLeq`, `func__stringGeq`, `func__stringNeq` and `func__stringLarge`
-3. Now when calling `func_toString` and `func_stringConcatenate` you don't need to save any register other than `$v0`, `$v1`(if you used them)
+3. Now when calling `func__toString` and `func__stringConcatenate` you don't need to save any register other than `$v0`, `$v1`(if you used them)
 4. you **don't** need to call "`_buffer_init`" function before entering the source main function!!!
 
 ## Note:
